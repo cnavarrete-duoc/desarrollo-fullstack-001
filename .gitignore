@@ -1,0 +1,55 @@
+# Maven / Gradle
+target/
+build/
+
+# Maven specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse specific
+*.metadata/
+*.classpath
+*.project
+*.settings/
+bin/
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code specific
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Spring Boot specific
+.env
+*.env
+*.jks
+*.p12
+*.key
+*.pem
+
+# System files
+*.DS_Store
+*.class
+*.war
+*.jar
+
+# Test output
+test-output/
